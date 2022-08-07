@@ -12,4 +12,7 @@ if (a > b)
     {
     Console.WriteLine($" max = {b} ,min = {a} ");
     }
-  
+ if (a == b) 
+ {
+   Console.WriteLine ($"Значения равны");
+ }
