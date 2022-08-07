@@ -14,5 +14,5 @@ if (a > b)
     }
  if (a == b) 
  {
-   Console.WriteLine ($"Значения равны");
+   Console.WriteLine ($"{a}={b}");
  }
