@@ -1,12 +1,7 @@
 ﻿
 Console.WriteLine("Введите число: ");
 int value = Convert.ToInt32(Console.ReadLine());
-int count = 1;
-
-if (count == 1)
-{
-    count +=1;
-}
+int count = 2;
 
 
 while (count <= value)
